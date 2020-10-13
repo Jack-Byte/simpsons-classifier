@@ -6,6 +6,9 @@
 ## Deutsch
 Lade ein Bild hoch und finde heraus, welcher Simpsons Charakter zu sehen ist, oder zumindest welchem Simpsons Charakter das Bild ähnelt. Nach einigen Sekunden erscheint ein Name und eine Wahrscheinlichkeit. 
 
+Per Klick auf den nachfolgenden Button wird ein Server gestartet und die Anwendung kann getestet werden. **Dies kann bis zu fünf Minuten dauern.**
+[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/Jack-Byte/simpsons-classifier/master?urlpath=%2Fvoila%2Frender%2Ffastai-simpson-classifier.ipynb)
+
 Die Vorhersagen werden von einem Künstliche Intelligenz Modell gemacht. Es kennt als Ausgabe nur Figuren aus der Comic-Serie Simpsons. Egal welches Bild hochgeladen wird, das Modell wird immer den Namen eines Simpsons Charakters nennen.
 
 Dies ist ein kleines Projekt als Resultat von Kapitel 2 des Buches [Deep Learning for Coders with fastai and PyTorch: AI Applications Without a PhD](https://www.amazon.de/Deep-Learning-Coders-Fastai-Pytorch/dp/1492045527). Der Programmcode basiert auf dem Code im Buch und den Beispielen aus[fastai](http://docs.fast.ai/).
@@ -15,6 +18,9 @@ Die Simpsons-Bilder sind dem https://simpsonswiki.com/ entnommen.
 ---------------------------------------------
 ## English
 Upload a picture and find out which Simpsons character is visible, or at least which Simpson's character the picture resembles. After a few seconds a name and a probability will appear.
+
+The following button brings you to the app. But you'll have to wait until a server is up and running. **This can take up to five minutes!**
+[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/Jack-Byte/simpsons-classifier/master?urlpath=%2Fvoila%2Frender%2Ffastai-simpson-classifier.ipynb)
 
 The predictions are made by an artificial intelligence model. It only knows characters from the comic series Simpsons. No matter which picture is uploaded, the model will always give the name of a Simpsons character.
 
