@@ -3,5 +3,5 @@ fastai==2.0.13
 pillow<7
 packaging==20.4
 ipywidgets==7.5.1
-bs4==4.9.3
+beautifulsoup4==4.9.3
 
